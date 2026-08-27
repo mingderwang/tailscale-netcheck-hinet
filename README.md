@@ -1,4 +1,5 @@
 ![Tailscale Netcheck](netcheck.png)
+![Tailscale Netcheck 2](netcheck2.png)
 
 # Tailscale Netcheck & Traceroute Analysis
 

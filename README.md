@@ -1,3 +1,5 @@
+![Tailscale Netcheck](netcheck.png)
+
 # Tailscale Netcheck & Traceroute Analysis
 
 **Date:** 2026-08-27  
